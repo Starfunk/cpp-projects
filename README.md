@@ -1,2 +1,2 @@
 # cpp-projects
-A collection of my cpp projects.
+A collection of my c++ projects.
